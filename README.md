@@ -1,2 +1,2 @@
 # notes
-我的笔记本
+spring-config配置中心测试
